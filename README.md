@@ -1,2 +1,2 @@
-# MAJOR_PROJECT
+# notes_sharing website 
 COLLEGE MAJOR PROJECT
